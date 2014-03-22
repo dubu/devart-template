@@ -11,11 +11,9 @@ Invisible now, the world of these intertwined relationships tie nicely drawn kke
 
 ## Link to Prototype
 
-[subway line 2](http://makeduck.com/line2 "proto type")
+[subway line 2](http://makeduck.github.io/line2 "proto type")
 
 
 ## Images & Videos
 
 ![을지로 순환선](project_images/maincover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
