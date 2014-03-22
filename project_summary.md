@@ -1,5 +1,4 @@
-# Project Title
-subway line 2 (infinity circle ilne)
+# infinity circle ilne(subway no.2 )
 
 ## Authors
 - Doo-Hwan, Kwak, https://github.com/dubu/
@@ -8,11 +7,9 @@ subway line 2 (infinity circle ilne)
 
 Invisible now, the world of these intertwined relationships tie nicely drawn kkeundeul also want to be able to scribble
 
-
 ## Link to Prototype
 
 [subway line 2](http://makeduck.github.io/line2 "proto type")
-
 
 ## Images & Videos
 
