@@ -15,4 +15,4 @@ Invisible now, the world of these intertwined relationships tie nicely drawn kke
 
 ![을지로 순환선](project_images/maincover.jpg?raw=true "Example Image")
 
-![을지로 순환선 이미지화](project_images/cover02.jpg?raw=true "Example Image")
+![을지로 순환선 이미지화](project_images/cover02.png?raw=true "Example Image")
