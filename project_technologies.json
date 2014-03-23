@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "Google Maps"
+            ""
         ],
         "platforms": [
             "android"
         ],
         "toolkits": [
-            "jQuery"
+            ""
         ]
     },
     "themes": [
