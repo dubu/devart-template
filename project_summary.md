@@ -6,14 +6,24 @@
 
 ## Description
 
-Invisible now, the world of these intertwined relationships tie nicely drawn kkeundeul also want to be able to scribble
+Rush hour. Dense metro.
+Doors are open. Comes in people pushed.
+Metro is within a narrow densely populated shortly.
 
-## Link to Prototype
+Sur others they have to have light.
+Now people are burnt red, then green people who are next to yellow.
 
-[subway line 2](http://makeduck.github.io/line2 "proto type")
+The face glows people together
+All the light and how beautiful they cry.
+
+Shed light on the dark world, let's make the light
+
+## Link
+
+none.
 
 ## Images & Videos
 
-![line2](project_images/maincover.jpg?raw=true "Example Image")
+![line2](../project_images/Screenshot_2014-03-23-14-23-01.png?raw=true "Example Image")
 
-![line02](project_images/cover02.png?raw=true "Example Image")
+
