@@ -23,7 +23,7 @@ Zero. Has a color representing a person. (Red /green/yellow)
 Zero. (Home) I can get the information at a train compartment.
 Zero. wifi, 3G through underground spaces, such as the location information can be obtained.
 One. Who rides the subway
-Two. Of people in the same column information is displayed on the screen. One in three people saekjung displayed.
+Two. Of people in the same column information is displayed on the screen.
 Three. People riding on the subway, the more people are displayed.
 Four. To continue into the color coats.
 
