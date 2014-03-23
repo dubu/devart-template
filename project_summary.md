@@ -14,7 +14,7 @@ Sur others they have to have light.
 Now people are burnt red, then green people who are next to yellow.
 
 The face glows people together
-All the light and how beautiful they cry.
+All the light and how beautiful they are.
 
 Shed light on the dark world, let's make the light
 
