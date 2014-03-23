@@ -22,7 +22,7 @@ public class MyActivity extends Activity
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        final int maxFlowersCount  = 1000;
+        final int maxFlowersCount  = 500;
 
        // mLocationClient = new LocationClient(this, this, this);
 
@@ -123,7 +123,10 @@ public class MyActivity extends Activity
         //            * 'red', 'blue', 'green', 'black', 'white', 'gray', 'cyan', 'magenta', 'yellow', 'lightgray', 'darkgray
 // '
         //String[] clo = new String[]{"red", "blue", "green", "black", "white", "gray", "cyan", "magenta", "yellow", "lightgray", "darkgray"};
-        String[] clo = new String[]{"red", "blue", "green",  "cyan", "magenta", "yellow","white"};
+        //String[] clo = new String[]{"red", "blue", "green",  "cyan", "magenta", "yellow","white"};
+        //String[] clo = new String[]{"yellow", "white",  "cyan", "magenta", "yellow","white"};
+
+        String[] clo = new String[]{ "cyan", "magenta", "yellow", "yellow"};
 
         int seq = 0;
         for (Object p : poins) {
@@ -138,7 +141,7 @@ public class MyActivity extends Activity
 
             double randomRatio = Math.random()*2 + 1;
 
-            int[] yomans =  new int[]{R.drawable.yoman033,R.drawable.yoman034,R.drawable.yoman035};
+            int[] yomans =  new int[]{R.drawable.yoman03,R.drawable.yoman034,R.drawable.yoman035};
 
             //Bitmap mask = BitmapFactory.decodeResource(getResources(), R.drawable.yoman033);
             Bitmap mask = BitmapFactory.decodeResource(getResources(), yomans[(int)randomRatio]);
@@ -157,10 +160,11 @@ public class MyActivity extends Activity
             //paint03.setColorFilter(new PorterDuffColorFilter(tint, (PorterDuff.Mode) modes[seq++]));
 
 
-            //int tint = Color.parseColor("red"); // angry
+
             int tint = Color.parseColor("green");
             if(seq < clo.length ){
                 tint = Color.parseColor(clo[seq++]);
+                //tint = Color.parseColor("white"); // "red", "blue", "green",  "cyan", "magenta", "yellow","white"
             }else{
                 tint = Color.parseColor(clo[seq++%clo.length]);
             }
