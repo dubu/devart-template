@@ -1,13 +1,10 @@
 {
     "technologies": {
         "apis": [
-            ""
+            "java"
         ],
         "platforms": [
             "android"
-        ],
-        "toolkits": [
-            ""
         ]
     },
     "themes": [
