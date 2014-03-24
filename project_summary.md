@@ -1,8 +1,7 @@
-
 # infinity circle line(subway no.2 )
 
 ## Authors
-- Doo-Hwan, Kwak, https://github.com/dubu/
+- Doo-Hwan, Kwak  https://github.com/dubu/
 
 ## Description
 
