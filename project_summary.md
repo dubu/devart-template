@@ -26,10 +26,6 @@ Two. Of people in the same column information is displayed on the screen.
 Three. People riding on the subway, the more people are displayed.
 Four. To continue into the color coats.
 
-## Link
-
-none.
-
 ## Images & Videos
 
 ![line2](../project_images/Screenshot_2014-03-23-14-23-01.png?raw=true "Example Image")
