@@ -29,6 +29,6 @@ Four. To continue into the color coats.
 
 ## Images & Videos
 
-![line2](../project_images/Screenshot_2014-03-23-14-23-01.png?raw=true "Example Image")
+![line2](../project_images/Screenshot_2014-03-23-14-23-01.png?raw=true "subline2")
 
-
+https://www.youtube.com/watch?v=SLBZukrtbWY
